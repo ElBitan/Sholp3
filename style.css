@@ -12,7 +12,10 @@ body{
 width: 120px;
   display: block;
   margin: 0 auto 10px;}
-
+.ner-anim{
+  width: 120px;
+  display: block;
+  margin: 0 auto 10px;}
 
 html {
   font-size: 62.5%;
